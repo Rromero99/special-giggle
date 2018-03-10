@@ -23,7 +23,7 @@
 		.quotes {
 			/* align-items: center; */
 			display: flex;
-			flex-direction: row;
+			flex-direction: column;
 		}
 
 		.character-quote {
